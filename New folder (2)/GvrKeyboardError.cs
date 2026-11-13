@@ -1,0 +1,7 @@
+public enum GvrKeyboardError
+{
+	UNKNOWN,
+	SERVICE_NOT_CONNECTED,
+	NO_LOCALES_FOUND,
+	SDK_LOAD_FAILED
+}

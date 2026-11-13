@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net35</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\Google.ProtocolBuffers.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-1.0.55.2017.1.0b12">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="FlyingText3D">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\FlyingText3D.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>C:\Program Files\Meta Horizon\Software\Software\tender-claws-virtual-virtual-reality\VVR_1716\VVR_1716_Data\Managed\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

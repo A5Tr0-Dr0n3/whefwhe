@@ -1,0 +1,12 @@
+using UnityEngine;
+
+public class SimpleMover : MonoBehaviour
+{
+	public float speed = 5f;
+
+	private void Update()
+	{
+		transform.position += speed * Vector3.right * Input.GetAxis("Horizontal") * Time.deltaTime;
+		transform.position += speed * Vector3.forward * Input.GetAxis("Vertical") * Time.deltaTime;
+	}
+}
