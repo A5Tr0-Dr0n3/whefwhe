@@ -1,0 +1,4 @@
+E:\A5Tr0\Documents\GitHub\whefwhe\New folder (2)\obj\Release\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\A5Tr0\Documents\GitHub\whefwhe\New folder (2)\obj\Release\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\A5Tr0\Documents\GitHub\whefwhe\New folder (2)\obj\Release\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\A5Tr0\Documents\GitHub\whefwhe\New folder (2)\obj\Release\net35\Assembly-CSharp.sourcelink.json
