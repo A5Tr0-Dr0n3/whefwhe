@@ -1,0 +1,10 @@
+Build attempt status
+====================
+
+A real C# build was not possible in the preparation container:
+- dotnet: command not found
+- msbuild: command not found
+- csc: command not found
+- mcs: command not found
+
+The user's Windows VS 2026/MSBuild installation and VVR1 Unity Managed directory are not mounted in this environment. No dummy or placeholder DLL was created. Use Build-VVR1-OpenVR.ps1 on the Windows machine to compile Assembly-CSharp.dll against the actual game references.
